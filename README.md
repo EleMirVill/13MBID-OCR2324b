@@ -9,7 +9,8 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
-Inicio de la actividad práctica I: 12/marzo/2024
+Inicio de la actividad práctica I: 12/marzo/2024. Finaliza
+Vendra
 Alumnos: Elena Miranda Villalón
 
 ## Descripción del contenido
